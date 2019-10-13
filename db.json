@@ -1,13 +1,16 @@
 {
   "devices": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Nemo"
     }
   ],
-  "pillEaten": {
-    "device": 1,
-    "date_time": "2018-09-22T12:42:31Z",
-    "count": 2
+  
+  "pillEaten": [ 
+    {
+      "device":" 1",
+      "date_time": "2018-09-22T12:42:31Z",
+      "count": 2
   }
+    ]
 }
